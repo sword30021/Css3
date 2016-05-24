@@ -1,0 +1,24 @@
+#div_6{
+  background: url(../0.resource/icon_add.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding-top: 40px;
+}
+#div_7{
+  background-image: url(0.resource/icon_add.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-origin: border-box;
+}
+#div_8{
+  background-image: url(../0.resource/icon_add.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-origin: content-box;
+}
+#div_9{
+  background: -webkit-linear-gradient(red, blue); /* Safari 5.1 - 6.0 */
+  background: -o-linear-gradient(red, blue); /* Opera 11.1 - 12.0 */
+  background: -moz-linear-gradient(red, blue); /* Firefox 3.6 - 15 */
+  background: linear-gradient(red, blue); /* 标准的语法（必须放在最后） */
+}

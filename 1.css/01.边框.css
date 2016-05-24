@@ -1,7 +1,28 @@
-div{
+#div_1{
   border: 2px solid #a1a1a1;
   padding: 10px 40px;
   background: #dddddd;
   width: 350px;
   border-radius: 25px;
+}
+#div_2{
+  width: 350px;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+  text-align: center;
+  background-color: green;
+  box-shadow: 10px 10px 5px #888888;
+}
+#div_container{
+  margin-top: 20px;
+  border: 15px solid trasparent;
+  width: 250px;
+  padding: 10px 20px;
+}
+#div_4{
+  border-image: url(../0.resource/icon_add.png) 30 30 round;
+}
+#div_5{
+  border-image: url(../0.resource/icon_add.png) 30 30 stretch;
 }
